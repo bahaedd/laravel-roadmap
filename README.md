@@ -13,6 +13,12 @@
 - [How to Create a Custom Middleware ?](https://aliendev.org/blog/post/laravel-how-to-create-a-custom-middleware)
 
 
+## Eloquent ORM
+
+- [Eloquent ORM: Simplified Database Interactions](https://aliendev.org/blog/post/eloquent-orm-simplified-database-interactions)
+
+
+
 ## Controllers
 
 - [Laravel Resource Controllers : Simplify CRUD Operations](https://aliendev.org/blog/post/laravel-resource-controllers-simplify-crud-operations)
