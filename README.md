@@ -1,6 +1,12 @@
 #### [Laravel Roadmap](https://aliendev.org)
 
 
+## PHP
+
+- [PHP : Exploring PSRs and Coding Styles](https://aliendev.org/blog/post/php-exploring-psrs-and-coding-styles)
+- [DRY vs. WET: Striving for Code Quality and Efficiency](https://aliendev.org/blog/post/dry-vs-wet-striving-for-code-quality-and-efficiency)
+
+
 ## Routing
 
 - [Routing: Methods, Parameters, and Caching](https://aliendev.org/blog/post/routing-methods-parameters-and-caching)
