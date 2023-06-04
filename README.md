@@ -35,5 +35,6 @@
 ## Controllers
 
 - [Single Action Controllers in Laravel](https://aliendev.org/blog/post/single-action-controllers-in-laravel)
+- [Understanding Controller Middleware in Laravel](https://aliendev.org/blog/post/understanding-controller-middleware-in-laravel)
 - [Laravel Resource Controllers : Simplify CRUD Operations](https://aliendev.org/blog/post/laravel-resource-controllers-simplify-crud-operations)
 - [Understanding Dependency Injection in Laravel](https://aliendev.org/blog/post/understanding-dependency-injection-in-laravel)
