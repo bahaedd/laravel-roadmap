@@ -4,7 +4,12 @@
 ## PHP
 
 - [PHP : Exploring PSRs and Coding Styles](https://aliendev.org/blog/post/php-exploring-psrs-and-coding-styles)
+
+
+## Code design principles
 - [DRY vs. WET: Striving for Code Quality and Efficiency](https://aliendev.org/blog/post/dry-vs-wet-striving-for-code-quality-and-efficiency)
+- [SOLID Principles: Robust and Maintainable Software](https://aliendev.org/blog/post/solid-principles-robust-and-maintainable-software)
+- [Single Responsibility Principle (SRP)](https://aliendev.org/blog/post/single-responsibility-principle-srp)
 
 
 ## Routing
