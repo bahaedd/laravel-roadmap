@@ -43,3 +43,8 @@
 - [Understanding Controller Middleware in Laravel](https://aliendev.org/blog/post/understanding-controller-middleware-in-laravel)
 - [Laravel Resource Controllers : Simplify CRUD Operations](https://aliendev.org/blog/post/laravel-resource-controllers-simplify-crud-operations)
 - [Understanding Dependency Injection in Laravel](https://aliendev.org/blog/post/understanding-dependency-injection-in-laravel)
+
+
+## Middlewares
+
+- [Laravel : How to Create a Custom Middleware ?](https://aliendev.org/blog/post/laravel-how-to-create-a-custom-middleware)
