@@ -26,17 +26,9 @@
 - [How to Create a Custom Middleware ?](https://aliendev.org/blog/post/laravel-how-to-create-a-custom-middleware)
 
 
-## Eloquent ORM
+## HTTP Requests
 
-- [Eloquent ORM: Simplified Database Interactions](https://aliendev.org/blog/post/eloquent-orm-simplified-database-interactions)
-- [One to One Relationship in Laravel Eloquent](https://aliendev.org/blog/post/one-to-one-relationship-in-laravel-eloquent)
-- [Implementing One-to-Many Relationship in Laravel](https://aliendev.org/blog/post/implementing-one-to-many-relationship-in-laravel)
-- [Many-to-Many Relationships in Laravel](https://aliendev.org/blog/post/many-to-many-relationships-in-laravel)
-- [Laravel's Has Many Through Relationship](https://aliendev.org/blog/post/laravel-s-has-many-through-relationship)
-- [One-to-Many Polymorphic Relationship in Laravel](https://aliendev.org/blog/post/one-to-many-polymorphic-relationship-in-laravel)
-- [Laravel Many-to-Many Polymorphic Relationship](https://aliendev.org/blog/post/laravel-many-to-many-polymorphic-relationship)
-- [Laravel Eager Loading : Optimizing Queries](https://aliendev.org/blog/post/laravel-eager-loading-optimizing-queries)
-
+- [Interacting with HTTP Requests in Laravel](https://aliendev.org/blog/post/interacting-with-http-requests-in-laravel)
 
 
 ## Controllers
@@ -50,3 +42,15 @@
 ## Middlewares
 
 - [Laravel : How to Create a Custom Middleware ?](https://aliendev.org/blog/post/laravel-how-to-create-a-custom-middleware)
+
+
+## Eloquent ORM
+
+- [Eloquent ORM: Simplified Database Interactions](https://aliendev.org/blog/post/eloquent-orm-simplified-database-interactions)
+- [One to One Relationship in Laravel Eloquent](https://aliendev.org/blog/post/one-to-one-relationship-in-laravel-eloquent)
+- [Implementing One-to-Many Relationship in Laravel](https://aliendev.org/blog/post/implementing-one-to-many-relationship-in-laravel)
+- [Many-to-Many Relationships in Laravel](https://aliendev.org/blog/post/many-to-many-relationships-in-laravel)
+- [Laravel's Has Many Through Relationship](https://aliendev.org/blog/post/laravel-s-has-many-through-relationship)
+- [One-to-Many Polymorphic Relationship in Laravel](https://aliendev.org/blog/post/one-to-many-polymorphic-relationship-in-laravel)
+- [Laravel Many-to-Many Polymorphic Relationship](https://aliendev.org/blog/post/laravel-many-to-many-polymorphic-relationship)
+- [Laravel Eager Loading : Optimizing Queries](https://aliendev.org/blog/post/laravel-eager-loading-optimizing-queries)
