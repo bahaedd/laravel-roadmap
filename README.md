@@ -4,6 +4,7 @@
 ## PHP
 
 - [PHP : Exploring PSRs and Coding Styles](https://aliendev.org/blog/post/php-exploring-psrs-and-coding-styles)
+- [Type Hinting in PHP: Code Clarity and Reliability](https://aliendev.org/blog/post/type-hinting-in-php-code-clarity-and-reliability)
 
 
 ## Code design principles
