@@ -30,6 +30,7 @@
 
 - [Interacting with HTTP Requests in Laravel](https://aliendev.org/blog/post/interacting-with-http-requests-in-laravel)
 - [HTTP Requests: Handling Input Data in Laravel](https://aliendev.org/blog/post/http-requests-handling-input-data-in-laravel)
+- [HTTP Requests: Retrieving and Storing Uploaded Files](https://aliendev.org/blog/post/http-requests-retrieving-and-storing-uploaded-files)
 
 
 ## Controllers
