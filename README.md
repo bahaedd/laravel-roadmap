@@ -26,11 +26,12 @@
 - [How to Create a Custom Middleware ?](https://aliendev.org/blog/post/laravel-how-to-create-a-custom-middleware)
 
 
-## HTTP Requests
+## HTTP Requests/Resonses
 
 - [Interacting with HTTP Requests in Laravel](https://aliendev.org/blog/post/interacting-with-http-requests-in-laravel)
 - [HTTP Requests: Handling Input Data in Laravel](https://aliendev.org/blog/post/http-requests-handling-input-data-in-laravel)
 - [HTTP Requests: Retrieving and Storing Uploaded Files](https://aliendev.org/blog/post/http-requests-retrieving-and-storing-uploaded-files)
+- [HTTP Responses in Laravel: Responses and Redirects](https://aliendev.org/blog/post/http-responses-in-laravel-responses-and-redirects)
 
 
 ## Controllers
