@@ -33,6 +33,10 @@
 - [HTTP Requests: Retrieving and Storing Uploaded Files](https://aliendev.org/blog/post/http-requests-retrieving-and-storing-uploaded-files)
 - [HTTP Responses in Laravel: Responses and Redirects](https://aliendev.org/blog/post/http-responses-in-laravel-responses-and-redirects)
 
+## Views
+
+- [Laravel Views: Building Dynamic Web Pages Made Easy](https://aliendev.org/blog/post/laravel-views-building-dynamic-web-pages-made-easy)
+
 
 ## Controllers
 
