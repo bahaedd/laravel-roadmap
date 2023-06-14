@@ -38,6 +38,10 @@
 - [Laravel Views: Building Dynamic Web Pages Made Easy](https://aliendev.org/blog/post/laravel-views-building-dynamic-web-pages-made-easy)
 
 
+## URL Generation
+
+- [URL Generation: Dynamic and SEO-Friendly Links](https://aliendev.org/blog/post/url-generation-dynamic-and-seo-friendly-links)
+
 ## Controllers
 
 - [Single Action Controllers in Laravel](https://aliendev.org/blog/post/single-action-controllers-in-laravel)
