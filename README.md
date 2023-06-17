@@ -41,6 +41,7 @@
 ## URL Generation
 
 - [URL Generation: Dynamic and SEO-Friendly Links](https://aliendev.org/blog/post/url-generation-dynamic-and-seo-friendly-links)
+- [Signed URLs in Laravel: Secure URL Generation](https://aliendev.org/blog/post/signed-urls-in-laravel-secure-url-generation)
 
 ## Controllers
 
